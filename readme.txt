@@ -9,3 +9,5 @@ branch management
 bug
 
 bug stash no delete
+
+double B edit
