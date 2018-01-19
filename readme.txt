@@ -11,3 +11,5 @@ bug
 bug stash no delete
 
 double B edit
+
+double A edit
